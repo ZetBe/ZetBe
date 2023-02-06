@@ -7,7 +7,7 @@
     <li></li>
   </ul>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZetBe&layout=compact&theme=UsedLanguage&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZetBe&layout=compact&theme=UsedLanguage&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZetBe&count_bg=%2339D7D2&title_bg=%23A19E9E&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
