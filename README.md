@@ -18,8 +18,6 @@
   
 [![ZetBe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZetBe&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeoulbbak)](https://solved.ac/jeoulbbak)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZetBe&count_bg=%2339D7D2&title_bg=%23A19E9E&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -31,4 +29,3 @@
 - 사이트에 방문해 보고 싶으면 링크: <a href="https://watercommunity-43dcf.web.app/">https://watercommunity-43dcf.web.app/</a>
 - 어떻게 작동하는지 알고 싶으면 저장소: https://github.com/ZetBe/WaterCommunity
   
- 
