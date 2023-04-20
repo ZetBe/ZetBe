@@ -33,4 +33,4 @@
  <br>
   
  # 개인 블로그
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zetbe)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zetbe)](velog.io/@zetbe)
