@@ -29,3 +29,9 @@
 - 사이트에 방문해 보고 싶으면 링크: <a href="https://watercommunity-43dcf.web.app/">https://watercommunity-43dcf.web.app/</a>
 - 어떻게 작동하는지 알고 싶으면 저장소: https://github.com/ZetBe/WaterCommunity
   
+<br>
+ <br>
+  
+ # 개인 블로그
+ <br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zetbe)](https://github.com/eungyeole/velog-readme-stats)
