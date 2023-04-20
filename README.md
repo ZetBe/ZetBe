@@ -32,5 +32,5 @@
 <br>
  <br>
   
- # 개인 블로그
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zetbe)](velog.io/@zetbe)
+ # 개인 블로그(누르면 메인 블로그로 이동합니다.)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zetbe)](https://velog.io/@zetbe)
