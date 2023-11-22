@@ -23,7 +23,7 @@
   
 # 개인 프로젝트
 
-## WaterCommunity <br/>
+## WaterCommunity(계륵과도 같은 무언가) <br/>
 - 사이트에 방문해 보고 싶으면 링크: <a href="https://watercommunity-43dcf.web.app/">https://watercommunity-43dcf.web.app/</a>
 - 어떻게 작동하는지 알고 싶으면 저장소: https://github.com/ZetBe/WaterCommunity
   
