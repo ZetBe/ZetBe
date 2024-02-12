@@ -1,7 +1,6 @@
 <h1><p>:computer:예비 개발자 서희원입니다!</p></h1>
 <br>
   <ul>
-    <li>:eyes:산업기능요원 준비중</li>
     <li>글로벌캠퍼스 컴퓨터전자시스템공학부    학점 3.13/4.5</li>
     <li>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
