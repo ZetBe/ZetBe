@@ -1,15 +1,12 @@
 <h1><p>:computer:예비 개발자 서희원입니다!</p></h1>
 <br>
   <ul>
-    <li>글로벌캠퍼스 컴퓨터전자시스템공학부    학점 3.13/4.5</li>
     <li>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-        <img src="https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-        <img src="https://img.shields.io/badge/-React%20Router-%23CA4245?style=for-the-badge&logo=ReactRouter&logoColor=white">
     </li>
     
 
@@ -22,9 +19,9 @@
   
 # 개인 프로젝트
 
-## WaterCommunity(계륵과도 같은 무언가) <br/>
-- 사이트에 방문해 보고 싶으면 링크: <a href="https://watercommunity-43dcf.web.app/">https://watercommunity-43dcf.web.app/</a>
-- 어떻게 작동하는지 알고 싶으면 저장소: https://github.com/ZetBe/WaterCommunity
+## BeAre(현재 Bearl)
+- 사이트: https://bearl.vercel.app/
+- 크롬 익스텐션: https://chromewebstore.google.com/detail/bearl-extension/ncddgemmppmdgfkmjeneghkmjckhmakj
   
 <br>
  <br>
