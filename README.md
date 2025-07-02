@@ -14,7 +14,6 @@
   <br>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZetBe&count_bg=%2339D7D2&title_bg=%23A19E9E&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
   
 # 개인 프로젝트
@@ -27,4 +26,4 @@
  <br>
   
  # 개인 블로그(누르면 이동합니다.)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zetbe)](https://velog.io/@zetbe)
+ https://kevin-dev-blog.vercel.app/
