@@ -40,4 +40,4 @@
 # 활동들
 
 - 글또 9기 & 10기 (2023.11 ~ 2025.03)
-- GDG on Campus HUFS 6기 Core member (2024.08 ~ 2025.07)
+- GDG on Campus HUFS 6, 7기 Core member (2024.08 ~ 2026.07, 진행 중)
