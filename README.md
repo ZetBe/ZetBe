@@ -20,14 +20,7 @@
 
 
   
-# 개인 프로젝트
 
-## BeAre(현재 Bearl)
-- 사이트: https://bearl.vercel.app/
-- 크롬 익스텐션: https://chromewebstore.google.com/detail/bearl-extension/ncddgemmppmdgfkmjeneghkmjckhmakj
-  
-<br>
- <br>
   
  # 개인 블로그(누르면 이동합니다.)
  https://kevin-dev-blog.vercel.app/
